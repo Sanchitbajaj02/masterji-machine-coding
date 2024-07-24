@@ -1,0 +1,25 @@
+:root {
+  --color-blue: #112d4e;
+  --color-gray: #bfbfbf;
+  --otp-background: #3f72af;
+}
+
+.bg-background {
+  background-color: var(--otp-background);
+}
+
+.bg-dark-blue {
+  background-color: var(--color-blue);
+}
+
+.text-dark-blue {
+  color: var(--color-blue);
+}
+
+.bg-gray-custom {
+  background-color: var(--color-gray);
+}
+
+.text-gray-custom {
+  color: var(--color-gray);
+}
