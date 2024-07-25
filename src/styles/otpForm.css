@@ -4,7 +4,7 @@
   --otp-background: #3f72af;
 }
 
-.bg-background {
+.bg-background-otp {
   background-color: var(--otp-background);
 }
 

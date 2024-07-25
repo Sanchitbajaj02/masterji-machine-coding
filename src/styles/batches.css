@@ -1,11 +1,11 @@
 :root {
   --color-blue: #112d4e;
   --color-gray: #bfbfbf;
-  --otp-background: #e2bbe9;
+  --batches-background: #e2bbe9;
 }
 
-.bg-background {
-  background-color: var(--otp-background);
+.bg-background-batches {
+  background-color: var(--batches-background);
 }
 
 .bg-dark-blue {
